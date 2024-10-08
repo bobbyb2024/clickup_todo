@@ -1,8 +1,8 @@
 {
-    "name": "Notion ToDo",
-    "filename": "notion_todo.zip",
+    "name": "Clickup ToDo",
+    "filename": "clickup_todo.zip",
     "hide_default_branch": true,
-    "homeassistant": "2024.1.0",
+    "homeassistant": "2024.10.0",
     "render_readme": true,
     "zip_release": true
 }
