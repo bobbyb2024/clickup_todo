@@ -1,4 +1,4 @@
-# Notion ToDo Integration for HomeAssistant
+# ClickUp ToDo Integration for HomeAssistant
 
 [![GitHub Release][releases-shield]][releases]
 [![GitHub Activity][commits-shield]][commits]
